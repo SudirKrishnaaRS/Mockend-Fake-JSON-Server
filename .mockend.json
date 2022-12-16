@@ -1,4 +1,6 @@
 {
+"user" :[
+    {
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
@@ -228,3 +230,5 @@
       "bs": "target end-to-end models"
     }
   }
+        ] 
+}
